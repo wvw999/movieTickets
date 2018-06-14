@@ -5,8 +5,6 @@ img {
 }
 
 .movie {
-	padding: 5px;
-	margin: 5px;
 	cursor: pointer;
    color: #0088cc;
 }
@@ -15,10 +13,19 @@ img {
   text-decoration: underline;
 }
 
+.movieContainer {
+ 	padding: 5px;
+	margin: 5px;
+}
+
 h1, h2, h3 {
 	text-align: center;
 }
 
 .title-details {
 	display: none;
+}
+
+p {
+  text-align: center;
 }
